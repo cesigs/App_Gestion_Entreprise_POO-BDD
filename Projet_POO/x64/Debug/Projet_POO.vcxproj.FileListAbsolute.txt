@@ -1,0 +1,26 @@
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\Projet_POO.vcxproj.AssemblyReference.cache
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormPersonnel.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormAdresse.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormVerifArticle.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormChoisir.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormMenu.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormClient.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormArticle.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormStatistiques.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormVerifAdresse.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormVerifClient.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\PrositFin.FormCommande.resources
+C:\Users\tmarc\Documents\Projet_Poo_version2.0.2\Projet_POO\x64\Debug\Projet_POO.vcxproj.GenerateResource.cache
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\Projet_POO.vcxproj.AssemblyReference.cache
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormPersonnel.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormAdresse.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormVerifArticle.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormChoisir.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormMenu.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormClient.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormArticle.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormStatistiques.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormVerifAdresse.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormVerifClient.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\PrositFin.FormCommande.resources
+D:\Users\pseud\Downloads\Projet_POO_Version_2.0.3\Projet_POO Version 2.0.3\Projet_POO\x64\Debug\Projet_POO.vcxproj.GenerateResource.cache
